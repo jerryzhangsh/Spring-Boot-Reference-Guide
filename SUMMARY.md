@@ -36,7 +36,7 @@
    * [12. 接下来阅读什么](II. Getting started/12. What to read next.md)
 * [III. 使用Spring Boot](III. Using Spring Boot/README.md)
    * [13. 构建系统](III. Using Spring Boot/13. Build systems.md)
-      * [13.1. Maven](III. Using Spring Boot/13.1. Maven.md)
+      * [13.1. Maven](III. Using Spring Boot/13.1. Dependency management.md)
          * [13.1.1. 继承starter parent](III. Using Spring Boot/13.1.1. Inheriting the starter parent.md)
          * [13.1.2. 使用没有父POM的Spring Boot](III. Using Spring Boot/13.1.2. Using Spring Boot without the parent POM.md)
          * [13.1.3. 改变Java版本](III. Using Spring Boot/13.1.3. Changing the Java version.md)
